@@ -1,2 +1,3 @@
 # glodivario
-Cuadrante de multiplicaciones JSP
+ * Cuadrante de multiplicaciones JSP
+ * Entorno servidor
