@@ -1,3 +1,2 @@
-# glodivario
- * Cuadrante de multiplicaciones JSP
- * Entorno servidor
+# dolumado
+Cuadrante de multiplicaciones en entorno servidor
