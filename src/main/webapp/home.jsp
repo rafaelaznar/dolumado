@@ -18,7 +18,8 @@
                     <jsp:include page="header.jsp" >
                         <jsp:param name="tittle" value="DOLUMADO" />
                         <jsp:param name="subtittle" value="Cuadrante de multiplicaciones JSP" />
-                    </jsp:include>                    
+                    </jsp:include>   
+                    <%@include file="dolumado.html" %>
                 </div>
             </div>
         </div>

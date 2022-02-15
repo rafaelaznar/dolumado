@@ -32,8 +32,9 @@
                                 }%> 
                         </tbody>
                     </table>
+                    <jsp:include page="footer.jsp" />
                 </div>
             </div>
-        </div>
+        </div>        
     </body>
 </html>
